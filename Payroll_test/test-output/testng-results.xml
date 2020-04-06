@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18256" started-at="2020-04-05T17:27:33Z" finished-at="2020-04-05T17:27:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18256" started-at="2020-04-05T17:27:33Z" finished-at="2020-04-05T17:27:52Z">
+      <class name="testScripts.RegressionTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.RegressionTest@1d057a39]" name="beforeMethod" is-config="true" duration-ms="12956" started-at="2020-04-05T17:27:33Z" finished-at="2020-04-05T17:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyButtonsIsDisplayed()[pri:0, instance:testScripts.RegressionTest@1d057a39]" name="verifyButtonsIsDisplayed" duration-ms="5269" started-at="2020-04-05T17:27:46Z" finished-at="2020-04-05T17:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButtonsIsDisplayed -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.RegressionTest@1d057a39]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-05T17:27:52Z" finished-at="2020-04-05T17:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.RegressionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
